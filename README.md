@@ -1,0 +1,1 @@
+This program in C++ implements a simple inventory management system. It let the user to search for items by their ID. The array is sorted by name (alphabetically) and IDs are organized in ascending order.
